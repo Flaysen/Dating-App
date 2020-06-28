@@ -45,3 +45,17 @@ D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\
 D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GitRepos\Dating-App\DatingApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
